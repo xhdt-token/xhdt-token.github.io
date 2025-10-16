@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .blue { fill:#1e3a8a; }
+      .teal { stroke:#0f7a8a; }
+    </style>
+  </defs>
+  <!-- transparent background -->
+  <circle cx="512" cy="512" r="400" fill="none" class="teal" stroke-width="60"/>
+  <g transform="translate(512,512)" class="blue">
+    <rect x="-280" y="-60" width="560" height="120" transform="rotate(45)"/>
+    <rect x="-280" y="-60" width="560" height="120" transform="rotate(-45)"/>
+  </g>
+</svg>
