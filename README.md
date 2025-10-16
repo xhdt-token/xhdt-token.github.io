@@ -1,3 +1,3 @@
-# xhdt-token.github.io
+# Welcome to XHDT Token official github page !
 
-## Test
+More informations coming coon.
